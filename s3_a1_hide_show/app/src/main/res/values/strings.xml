@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">S3A1HideShow</string>
+    <string name="text_off">Hide</string>
+    <string name="text_on">Show</string>
+</resources>
